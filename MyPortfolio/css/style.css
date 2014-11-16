@@ -1,0 +1,26 @@
+#header {
+    position: fixed;
+    background-color: #668284;
+    margin-top: -20px;
+    width: 97.5%;
+    border-radius: 5px;
+    height: 160px;
+}
+
+#textGroup {
+    margin-top: 20px;
+    float: right;
+    margin-right: 5px;
+}
+
+#name {
+    font-family: sans-serif;
+    float: right;
+    font-size: 40px;
+}
+
+#jobDescription {
+    float: right;
+    font-size: 30px;
+}
+
